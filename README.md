@@ -17,4 +17,5 @@ baseurl/login (pass email,password as body )
 baseurl/getUser (pass jwt token in headers)
 
 ### `Get All User SignUp Details(GET)  :`
-baseurl/getall
+baseurl/getall (pass jwt token in headers)
+
